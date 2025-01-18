@@ -1,2 +1,1 @@
-I plan to use the clone and push option for uploding assignments to GitHub.
-I have used this method in the past and find it to be pretty convienient. 
+I plan to use the clone and push method for assignments.
